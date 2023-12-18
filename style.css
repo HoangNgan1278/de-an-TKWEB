@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    background-color: #f0f0f0;
+    background-color: black;
 }
 .card-container{
     display: flex;
@@ -44,5 +44,5 @@ body{
     text-decoration: none;
     border-radius: 4px;
     margin-top: 16px;
-    color: #fff;
+    color: while;
 }
