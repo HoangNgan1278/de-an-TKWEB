@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    background-color: black;
+    background-image: ("https://i.pinimg.com/originals/99/b8/f6/99b8f6812e5d68ef9ae41b82da9a15af.jpg");
 }
 .card-container{
     display: flex;
